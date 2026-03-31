@@ -1,0 +1,44 @@
+{
+  "76.2x25.4": {
+    "auto_fit": true,
+    "font_family": "Script",
+    "elements": {
+      "description": {
+        "x": 0.493431855500821,
+        "y": 0.1330049261083744,
+        "font": 10,
+        "bold": true,
+        "align": "center"
+      },
+      "price": {
+        "x": 0.48440065681444994,
+        "y": 0.4014778325123153,
+        "font": 10,
+        "bold": true,
+        "align": "center"
+      },
+      "barcode": {
+        "x": 0.03776683087027915,
+        "y": 0.6059113300492611,
+        "module_w": 6.0,
+        "bar_h_frac": 0.16999999999999998,
+        "width_frac": 0.37999999999999995,
+        "quiet_zone": 5.0
+      },
+      "barcode_text": {
+        "x": 0.21492610837438425,
+        "y": 0.8374384236453203,
+        "font": 6,
+        "bold": true,
+        "align": "center"
+      },
+      "company": {
+        "x": 0.7692939244663379,
+        "y": 0.7997158014399391,
+        "font": 14,
+        "bold": true,
+        "align": "center"
+      }
+    }
+  }
+}

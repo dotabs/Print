@@ -1,0 +1,35 @@
+{
+  "dpi": 203,
+  "unit": "inches",
+  "label_sizes_mm": [
+    [
+      76.2,
+      25.4
+    ],
+    [
+      50,
+      25
+    ],
+    [
+      60,
+      40
+    ],
+    [
+      70,
+      40
+    ],
+    [
+      100,
+      50
+    ]
+  ],
+  "selected_label_size_mm": [
+    76.2,
+    25.4
+  ],
+  "selected_printer": "Canon TR4700 series FAX",
+  "barcode_type": "Code128",
+  "last_excel_dir": "C:/Users/newna/Downloads",
+  "lock_font_family": true,
+  "company_name": ""
+}
