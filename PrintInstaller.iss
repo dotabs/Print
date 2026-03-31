@@ -28,9 +28,9 @@ ArchitecturesInstallIn64BitMode=x64compatible
 DisableProgramGroupPage=yes
 ; Remove the following line to run in administrative install mode (install for all users).
 PrivilegesRequired=lowest
-OutputDir=C:\Users\newna\OneDrive\Desktop\Print\output
+OutputDir=output
 OutputBaseFilename=Print_Setup
-SetupIconFile=C:\Users\newna\Downloads\icon.ico
+SetupIconFile=icon.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
 CloseApplications=yes
@@ -44,7 +44,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\newna\OneDrive\Desktop\Print\dist\Print.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "dist\Print.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 

@@ -28,7 +28,7 @@ Create and activate a virtual environment, then install the dependencies:
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-pip install PySide6 openpyxl python-barcode pillow pywin32 pyinstaller
+pip install -r requirements.txt
 ```
 
 Start the app:
@@ -60,6 +60,7 @@ Update any machine-specific paths in that file before building the installer.
 - `app.py` - main application
 - `layout.json` - label layout settings
 - `settings.json` - app settings
+- `requirements.txt` - Python dependencies
 - `Print.spec` - PyInstaller build config
 - `PrintInstaller.iss` - Inno Setup installer config
 

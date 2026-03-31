@@ -1,0 +1,6 @@
+PySide6
+openpyxl
+python-barcode[images]
+Pillow
+pywin32
+pyinstaller
